@@ -80,5 +80,10 @@ namespace Navegador
         {
             ProgressBar1.Visible = false;
         }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
